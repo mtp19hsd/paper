@@ -13,5 +13,9 @@ Jones et all (1998) considered several measurements but continental scale measur
 # Motivation
 Find out more about this important phemonenon.
 
-# Simulate
+# Simulations
 We simulate the evolution of particle sizes as they are transported away from the source region.
+
+# Methodology
+We compared our measurements of particle ageing with a model simulation. The model is detailed in Smith et al (2002).
+

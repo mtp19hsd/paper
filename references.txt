@@ -1,2 +1,3 @@
 Bloggs et all (2004), Describe PCASP Instrument
 Jones et all (1998), Previous Studies
+Smith et al (2002), Atmospheric Box Model
