@@ -4,7 +4,8 @@ Aircraft measurements and simulation of biomass burning aerosols over West Afric
 
 # Author 
 Elizabeth Veronica Davis-Fowell, Univeristy of Sheffield
-Michael David White, University of Manchest
+Michael David White, University of Manchester
+Joshua Collins, University of Manchester
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
