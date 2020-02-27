@@ -7,6 +7,10 @@ Elizabeth Veronica Davis-Fowell, Univeristy of Sheffield
 Joshua Collins, University of Manchester
 Michael David White, University of Manchester
 
+# Abstract
+
+A consise summary of our work and findings.
+
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
 Particle size was measured using a PCASP (Bloggs et al 2004).
