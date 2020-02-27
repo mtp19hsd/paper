@@ -21,3 +21,6 @@ We compared our measurements of particle ageing with a model simulation. The mod
 
 # Results 
 The simulations indicate that coagulation is the dimonant growth mechanism for these particles.
+
+# Figures
+All images are here.
