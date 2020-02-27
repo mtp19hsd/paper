@@ -22,5 +22,8 @@ We compared our measurements of particle ageing with a model simulation. The mod
 # Results 
 The simulations indicate that coagulation is the dimonant growth mechanism for these particles.
 
+# Conclusions
+We have made fantastic insight into the BBOA ageing process.
+Nonetheless questions remain unanswered, so more funding is required.
 # Figures
 All images are here.
